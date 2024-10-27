@@ -2,6 +2,12 @@
 
 Dokumentasi ini menjelaskan dua endpoint API yang tersedia dalam proyek ini.
 
+Jalankan service:
+```
+npm install
+npm run dev
+```
+
 ## 1. Mendapatkan Daftar Pengguna
 
 **Endpoint:**  
