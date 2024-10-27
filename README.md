@@ -21,7 +21,6 @@ Endpoint ini digunakan untuk mengambil daftar semua pengguna yang terdaftar.
             "job_title": "IT Programming",
             "company": "PT. Maha Akbar Sejahtera"
         },
-        ...
     ]
     ```
 
